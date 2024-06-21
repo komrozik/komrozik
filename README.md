@@ -66,7 +66,8 @@ Open Source
     your idea...
 --->
 
-Programming Languages \
+Programming Languages
+---------
 :   **Python:** Extensive knowledge
 <!--- 
     Here, we have an itemization, where we only want
