@@ -92,8 +92,8 @@ Programming Languages
 
 
 
-* Human Languages:
-
-     * German (native speaker)
-     * English (C1/2)
-     * Portuguese (A1/A2)
+Languages:
+--------
+* German (native speaker)
+* English (C1/2)
+* Portuguese (A1/A2)
