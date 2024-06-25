@@ -85,8 +85,7 @@ Programming Languages
     reference elsewhere in the document to reduce clutter (see source
     file). --->
 
-:   **LaTeX:** We both know this one's pushing
-    it.
+:   **LaTeX:** (Not a real Language?) Advanced skills
 
 :   Very Basic knowledge of **MatLab**, **Java**
 
