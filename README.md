@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Education
 ---------
 
-2010-2014 (expected)
+2022-2026 (expected)
 :   **MSc, Ocean and Climate Physics**; University Hamburg, (Hamburg) \
 <!---     *Thesis title: -* --->
 
